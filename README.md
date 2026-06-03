@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mí
 
-```python
+
 class CamiloFlorez:
     nombre     = "Camilo Florez"
     alias      = "Amon089"
@@ -27,7 +27,7 @@ class CamiloFlorez:
 
     def mensaje(self):
         return "Construyendo soluciones, un commit a la vez 🚀"
-```
+
 
 ---
 
@@ -91,5 +91,3 @@ class CamiloFlorez:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer" />
 
 </div>
-
-<!--la verdad no se que poner aqui >
