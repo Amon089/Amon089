@@ -9,14 +9,14 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 ```python
 class CamiloFlorez:
     nombre     = "Camilo Florez"
     alias      = "Amon089"
     ubicacion  = "Colombia 🇨🇴"
-    estado     = "Estudiando desarrollo de software 📚"
+    estado     = "Estudiando desarrollo de software "
 
     stack = {
         "lenguajes":   ["Python", "JavaScript", "C#", "HTML", "CSS"],
@@ -26,12 +26,12 @@ class CamiloFlorez:
     }
 
     def mensaje(self):
-        return "Construyendo soluciones, un commit a la vez 🚀"
+        return "Construyendo soluciones, un commit a la vez "
 
 ```
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Lenguajes**
 
@@ -60,7 +60,7 @@ class CamiloFlorez:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -76,7 +76,7 @@ class CamiloFlorez:
 </div>
 
 ---
-## 🌐 Conectemos
+## Conectemos
 
 <div align="center">
 
