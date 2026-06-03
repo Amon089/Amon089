@@ -64,12 +64,6 @@ class CamiloFlorez:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amon089&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amon089&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)
 
 </div>
